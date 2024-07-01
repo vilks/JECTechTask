@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/JECTechTaskCore/config
+/JECTechTaskCore/bin/Debug/netcoreapp3.1
+/JECTechTaskCore/ClientApp/node_modules
+/JECTechTaskCore/obj/Debug/netcoreapp3.1
+/JECTechTaskCore/obj
+/JECTechTaskCore.Interfaces/bin/Debug/netcoreapp3.1
+/JECTechTaskCore.Interfaces/obj/Debug/netcoreapp3.1
+/JECTechTaskCore.Interfaces/obj
+/JECTechTaskCore.Models/obj

@@ -1,0 +1,15 @@
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Services.deps.json
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Services.dll
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Services.pdb
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Interfaces.dll
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Models.dll
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Interfaces.pdb
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\bin\Debug\netcoreapp3.1\JECTechTaskCore.Models.pdb
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.csproj.AssemblyReference.cache
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.AssemblyInfoInputs.cache
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.AssemblyInfo.cs
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.csproj.CoreCompileInputs.cache
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.csproj.CopyComplete
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.dll
+C:\repo\JECTechTaskCore\JECTechTaskCore.Services\obj\Debug\netcoreapp3.1\JECTechTaskCore.Services.pdb
